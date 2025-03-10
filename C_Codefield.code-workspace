@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			".clang-format": "yaml",
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"stdbool.h": "c",
+			"malloc.h": "c",
+			"limits": "c",
+			"atomic": "c",
+			"bit": "c",
+			"charconv": "c",
+			"cmath": "c",
+			"compare": "c",
+			"concepts": "c",
+			"exception": "c",
+			"format": "c",
+			"ios": "c",
+			"iosfwd": "c",
+			"istream": "c",
+			"iterator": "c",
+			"locale": "c",
+			"memory": "c",
+			"ostream": "c",
+			"system_error": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"utility": "c",
+			"xiosbase": "c",
+			"xlocale": "c",
+			"xlocbuf": "c",
+			"xlocinfo": "c",
+			"xlocmon": "c",
+			"xlocnum": "c",
+			"xmemory": "c",
+			"xstring": "c",
+			"xtr1common": "c",
+			"xutility": "c",
+			"time.h": "c",
+			"string.h": "c",
+			"limits.h": "c",
+			"initializer_list": "c",
+			"corecrt.h": "c",
+			"*.inc": "c",
+			"corecrt_malloc.h": "c"
+		}
+	}
+}
